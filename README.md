@@ -14,6 +14,8 @@ A Streamlit-powered semantic search app with FAISS vector store.
 3. Run indexing script
 4. Launch Streamlit UI
 
+Note: After cloning, run ingestion.py first to create the FAISS index before using the Streamlit app.
+
 ## Data
 This repo includes a small sample dataset for demonstration.
 
